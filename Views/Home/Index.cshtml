@@ -1,0 +1,36 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Hauptseite";
+    ViewData["H1"] = "Alles über Nägel";
+}
+
+<section class="article-list">
+    <h2 class="article-title" onclick="toggleContent('artikel1', this)">
+        <span class="arrow">➤</span>
+        Die Geschichte der künstlichen Fingernägel
+    </h2>
+    @Html.Raw(Model[0])
+
+    <h2 class="article-title" onclick="toggleContent('artikel2', this)">
+        <span class="arrow">➤</span>
+        Künstliche Nägel im Alltag
+    </h2>
+    @Html.Raw(Model[1])
+
+    <h2 class="article-title" onclick="toggleContent('artikel3', this)">
+        <span class="arrow">➤</span>
+        Häufige Fehler bei der Nagelpflege
+    </h2>
+    @Html.Raw(Model[2])
+
+    <h2 class="article-title" onclick="toggleContent('artikel4', this)">
+        <span class="arrow">➤</span>
+        Nageltrends 2025: Farben und Formen
+    </h2>
+    @Html.Raw(Model[3])
+</section>
+
+
+
+

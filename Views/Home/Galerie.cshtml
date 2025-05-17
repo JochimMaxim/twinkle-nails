@@ -1,0 +1,71 @@
+﻿@using System.IO
+
+@{
+    ViewData["Title"] = "Galerie";
+    ViewData["H1"] = "Nagelgalerie";
+
+    var basePath = "/images/galerie/";
+    var categories = new[] { "hochzeit", "urlaub", "karneval", "fuße", "twinkle-desing"};
+}
+<div class="filter-buttons">
+    <button onclick="filterGallery('all')">Alle</button>
+    @foreach (var cat in categories)
+    {
+        <button onclick="filterGallery('@cat')">@char.ToUpper(cat[0])@cat.Substring(1)</button>
+    }
+</div>
+
+<div class="gallery">
+    @foreach (var cat in categories)
+    {
+        var dirPath = System.IO.Path.Combine(System.IO.Directory.GetCurrentDirectory(), "wwwroot", "images", "galerie", cat);
+        if (System.IO.Directory.Exists(dirPath))
+        {
+            var files = System.IO.Directory.GetFiles(dirPath);
+            foreach (var file in files)
+            {
+                var fileName = System.IO.Path.GetFileName(file);
+                var readableName = System.IO.Path.GetFileNameWithoutExtension(fileName)
+                .Replace("-", " ").Replace("_", " ");
+
+                <img src="@($"{basePath}{cat}/{fileName}")"
+                     class="item @cat"
+                     alt="Nageldesign: @readableName aus Kategorie @cat"
+                     onclick="openLightbox(this.src)" />
+            }
+
+        }
+    }
+</div>
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <img id="lightbox-img" src="" alt="Vergrößertes Bild" />
+</div>
+
+@section Scripts {
+    <script>
+        function filterGallery(category) {
+            const items = document.querySelectorAll('.gallery .item');
+            items.forEach(img => {
+                img.style.display = (category === 'all' || img.classList.contains(category)) ? 'inline-block' : 'none';
+            });
+        }
+
+        function openLightbox(src) {
+            const lightbox = document.getElementById("lightbox");
+            const lightboxImg = document.getElementById("lightbox-img");
+            lightboxImg.src = src;
+            lightbox.style.display = "flex";
+        }
+
+        function closeLightbox() {
+            document.getElementById("lightbox").style.display = "none";
+        }
+    </script>
+}
+
+
+
+
+
+

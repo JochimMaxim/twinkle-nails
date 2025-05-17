@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Twinkle Nagelstudio in Asbach – professionelle Nagelverlängerung, modernes Nageldesign, Maniküre & Pediküre. Entdecke Trends, Galerie, Preise & Termine online.">
+    <title>@ViewData["Title"] - Nagelstudio</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Twinkle</h1>
+                    <p>Naildesign</p>
+                </div>
+                <nav>
+                    <a href="/">Hauptseite</a>
+                    <a href="/home/Preisliste">Preisliste</a>
+                    <a href="/home/UberUns">Über uns</a>
+                    <a href="/home/galerie">Galerie</a>
+                    <a href="/home/kontakt">Kontakt</a>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="text-section">
+                <h1 class="main_title">@ViewData["H1"]</h1>
+                @RenderBody()
+            </div>
+            <div class="image-section">
+                <img src="/images/hands.jpg" alt="Nageldesign" />
+            </div>
+        </main>
+
+
+        <footer>
+            <div class="footer-inner">
+            <div class="socials">
+                <a href="https://www.instagram.com/manikure_asbach_?igsh=MXAyMGJpOXAxcnVkMA%3D%3D&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com/@@marinfpdel7?_t=ZN-8wQmc6nVbyY&amp;_r=1" target="_blank"><i class="fab fa-tiktok"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
+                <a href="https://wa.me/+4917642722545" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            </div>
+                Alle Rechte vorbehalten &copy;
+   
+            </div>
+    
+        </footer>
+    </div>
+        @await RenderSectionAsync("Scripts", required: false)
+        <script>
+            function toggleContent(id, titleElement) {
+              const content = document.getElementById(id);
+              const arrow = titleElement.querySelector('.arrow');
+
+              const isOpen = content.style.display === "block";
+
+              content.style.display = isOpen ? "none" : "block";
+              arrow.textContent = isOpen ? "➤" : "▼";
+            }
+        </script>
+   
+</body>
+</html>

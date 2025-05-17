@@ -1,0 +1,13 @@
+﻿@model List<ArticleModel>
+
+<section class="article-list">
+    @foreach (var article in Model)
+    {
+        <h2 class="article-title" onclick="toggleContent('article-@article.Id', this)">
+            <span class="arrow">➤</span> @article.Title
+        </h2>
+        <div class="article-content" id="article-@article.Id">
+            <a href="@Url.Action("Read", "Articles", new { id = article.Id })">Artikel lesen</a>
+        </div>
+    }
+</section>

@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Twinkle_test.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Twinkle_test.bjnx5ewt6l.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\articles\\article1.html",
+      "PackagePath": "staticwebassets\\articles\\article1.html"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\articles\\article2.html",
+      "PackagePath": "staticwebassets\\articles\\article2.html"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\articles\\article3.html",
+      "PackagePath": "staticwebassets\\articles\\article3.html"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\articles\\article4.html",
+      "PackagePath": "staticwebassets\\articles\\article4.html"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\babyboomer_nageldesign_rosa_weiss_verlauf.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\babyboomer_nageldesign_rosa_weiss_verlauf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\elegantes_nageldesign_matt_goldene_linien_nude.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\elegantes_nageldesign_matt_goldene_linien_nude.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\elegantes_rosa_nageldesign_mit_silber_linie.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\elegantes_rosa_nageldesign_mit_silber_linie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\nageldesign_rosa_marmor_glitzer.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\nageldesign_rosa_marmor_glitzer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\nageldesign_rot_beige_schrift_never_give_up.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\nageldesign_rot_beige_schrift_never_give_up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\nude_black_gold_foil_french_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\nude_black_gold_foil_french_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\nude_nageldesign_mandelform_tageslicht.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\nude_nageldesign_mandelform_tageslicht.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\nude_pink_swirls_flower_inspiration_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\nude_pink_swirls_flower_inspiration_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\rosa_transparent_pinkeflocken_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\rosa_transparent_pinkeflocken_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\Twinkle-Desing\\zarte_nagel_design_mit_blumen_und_gold.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\Twinkle-Desing\\zarte_nagel_design_mit_blumen_und_gold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\fuße\\fussnageldesign_blau_gruener_glitzerlack.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\fuße\\fussnageldesign_blau_gruener_glitzerlack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\fuße\\professionelle_fusspflege_gepflegte_ferse.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\fuße\\professionelle_fusspflege_gepflegte_ferse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\fuße\\professionelle_fusspflege_gepflegte_ferse1.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\fuße\\professionelle_fusspflege_gepflegte_ferse1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\babyboomer_zucker_strass_rosa_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\babyboomer_zucker_strass_rosa_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\french_manikure_klassisch_gepflegt_mehrwinkel.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\french_manikure_klassisch_gepflegt_mehrwinkel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\french_manikure_weiss_cover_modeheft.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\french_manikure_weiss_cover_modeheft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\glitzer_ombre_rosa_quadratisch_trockenblumen.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\glitzer_ombre_rosa_quadratisch_trockenblumen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\matt_nude_weisse_linien_minimalistisch.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\matt_nude_weisse_linien_minimalistisch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\hochzeit\\ombre_rose_schimmer_flora_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\hochzeit\\ombre_rose_schimmer_flora_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\karneval\\burberry_karomuster_rot_beige_schwarz_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\karneval\\burberry_karomuster_rot_beige_schwarz_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\karneval\\klassisch_rot_kinetics_shield_gelpolish.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\karneval\\klassisch_rot_kinetics_shield_gelpolish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\karneval\\weihnachten_blau_santa_schneeflocke_gold_nageldesign.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\karneval\\weihnachten_blau_santa_schneeflocke_gold_nageldesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\galerie\\urlaub\\weiss_gruener_schmetterling_glitzer_nailart.jpg",
+      "PackagePath": "staticwebassets\\images\\galerie\\urlaub\\weiss_gruener_schmetterling_glitzer_nailart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\hands.jpg",
+      "PackagePath": "staticwebassets\\images\\hands.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\images\\kontakt\\IMG-20250517-WA0025.jpg",
+      "PackagePath": "staticwebassets\\images\\kontakt\\IMG-20250517-WA0025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jochim\\source\\repos\\Twinkle_Test\\Twinkle_test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Twinkle_test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Twinkle_test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Twinkle_test.props",
+      "PackagePath": "build\\Twinkle_test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Twinkle_test.props",
+      "PackagePath": "buildMultiTargeting\\Twinkle_test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Twinkle_test.props",
+      "PackagePath": "buildTransitive\\Twinkle_test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
